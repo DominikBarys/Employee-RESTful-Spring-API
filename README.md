@@ -1,1 +1,1 @@
-Test project for learning purpose
+Test project for learning purposes
